@@ -1,32 +1,9 @@
-# IS 3020 Final Project
+# Student Assignment Tracker
 
-## Student and Project Information
+- Student name: Phil Asamoah
+- GitHub username: plussnines
+- Project title: Student Assignment Tracker
+- Application purpose: Help students organize coursework and track assignment titles, due dates, points, and completion status from a command-line menu. Later milestones will add CSV storage and options to filter and update assignments.
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
-
-## How to Run the Application
-
-Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
-
-## Major Features
-
-List the major user-facing features implemented in the final application.
-
-## Python Concepts Used
-
-Explain how the application uses functions, collections, conditionals, loops, file persistence, and exception handling.
-
-## Data Files
-
-Describe each CSV or JSON file and provide a brief explanation of its fields.
-
-## Testing Summary
-
-Describe the major scenarios tested, including invalid input and file-related errors.
-
-## AI Use
-
-Complete `AI_USAGE.md` and summarize the most important AI-assisted improvements here.
+## Run the starter
+Open `assignment_tracker.py` in PyCharm and run it with Python 3, or run `python3 assignment_tracker.py` from this folder. The initial version displays the project banner.
